@@ -87,7 +87,6 @@ GuguMarket은 중고 상품 거래 과정을 **실시간 1:1 채팅, 알림(Noti
 
 ### 👥 팀 구성 및 역할
 
-**신의진 님**이 팀장으로서 사용자 인증/개인화 흐름을 총괄하였으며, 각 팀원의 담당 역할은 다음과 같습니다.
 
 * **신의진 (팀장)**:
     * **담당 Backend**: MypageController, UserController를 구현하고, WebConfig를 통해 CORS 설정을 관리했으며, SecurityConfig의 인증/인가/JWT 설정을 담당하며 전체 프로젝트 관리 및 아키텍처 점검을 총괄했습니다.
